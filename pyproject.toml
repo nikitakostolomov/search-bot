@@ -8,6 +8,8 @@ packages = [{include = "search_bot"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+python-telegram-bot = "^20.2"
+googlesearch-python = "^1.2.3"
 
 
 [tool.poetry.group.dev.dependencies]
