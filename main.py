@@ -5,7 +5,7 @@ from requests.exceptions import HTTPError
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "5897028470:AAGjNAVScjNAogLG-yGY76kyPTtElPue1gA"
+BOT_TOKEN = "INSERT BOT TOKEN HERE"
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",

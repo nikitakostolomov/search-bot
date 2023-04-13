@@ -19,7 +19,8 @@ for searching Google `googlesearch-python` lib is used.
 5. Run command to install dependencies
 `~/search-bot$ poetry install`
 ## Usage
-1. Run main file
+1. Ask me for `bot_token` and insert it in `BOT_TOKEN` var inside `main.py`
+2. Run main file
 `~/search-bot$ python main`
 2. Open telegram and search for bot with name `@browser_search_bot`
 ## Commands
